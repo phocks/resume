@@ -1,2 +1,6 @@
-# resume
-Professional resume for Joshua J. Byrd
+Joshua Byrd :: Digital Developer
+===================================
+
+
+
+
