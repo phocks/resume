@@ -1,4 +1,4 @@
-Joshua Byrd :: Digital Developer
+Joshua Byrd // Digital Developer
 ===================================
 
 
