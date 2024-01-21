@@ -13,10 +13,11 @@ at the crossroads of data journalism and coding.
 
 ABC News Digital | Story Lab
 - Code and stories for the ABC News website.
+- Editorial tools for interactive storytelling.
 
 Master of Information Technology | QUT
-- Incomplete, focused on Advanced Database 
-  Management and Cloud Computing.
+- Incomplete, focused on Systems Archetechture and
+  large-scale software deployment.
 
 Bachelor of Arts in Music and Theatre | ACU National
 - Graduated Dec 2003, specialising in Music Composition 
