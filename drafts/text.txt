@@ -3,10 +3,9 @@ Joshua Byrd
 Editorial Developer            
 ────────────────────────────────────
 
-Results-oriented editorial developer with a passion 
-for transforming data into compelling narratives. 
-Eight years of experience at the intersection of data 
-journalism and coding.
+Forward-thinking software developer with a passion for 
+transforming data into compelling narratives. Eight years 
+of experience at the intersection of data journalism and coding.
 
 - Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly
 - Backend: Node, Deno, Rust, Linux, PostgreSQL
@@ -22,7 +21,7 @@ Master of Information Technology | QUT
   Management and Cloud Computing.
 
 Bachelor of Arts in Music and Theatre | ACU National
-- Graduated May 2005, specialising in Music Composition 
+- Graduated Dec 2003, specialising in Music Composition 
   and Theatrical Production.
 
 - Email: byrd.joshua@proton.me
