@@ -3,16 +3,15 @@ Joshua Byrd
 Editorial Developer            
 ────────────────────────────────────
 
-Forward-thinking software developer with a passion for 
-transforming data into compelling narratives. Eight years 
-of experience at the intersection of data journalism and coding.
+Software developer and data journalist with a flair for translating
+complex data into captivating narratives. Over eight years of expertise 
+at the crossroads of data journalism and coding.
 
-- Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly
-- Backend: Node, Deno, Rust, Linux, PostgreSQL
+- Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly, etc.
+- Backend: Node, Deno, Rust, Linux, PostgreSQL, etc.
 
 ABC News Digital | Story Lab
-- Led development of mission-critical features, 
-  contributing to flagship product success.
+- Code and stories for the ABC News website.
 - Collaborated seamlessly with cross-functional 
   teams for robust and scalable solutions.
 
