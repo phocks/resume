@@ -10,6 +10,10 @@ at the crossroads of data journalism and coding.
 - Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly, etc.
 - Backend: Node, Deno, Rust, Linux, PostgreSQL, etc.
 - Datavis: D3.js, Pandas, Jupyter Notebook, etc.
+- Strong communication skills, bridging the gap between technical 
+  and editorial teams.
+- Creative problem solver with a passion for turning data into 
+  compelling narratives.
 
 ABC News Digital | Story Lab
 - Code and stories for the ABC News website.
