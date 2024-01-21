@@ -1,0 +1,37 @@
+────────────────────────────────────
+Joshua Byrd
+Software Engineer | Data Journalist
+────────────────────────────────────
+
+Highly skilled software engineer and data journalist with a proven track record of transforming intricate data into compelling narratives. Over eight years of expertise at the nexus of data journalism and coding.
+
+Technical Proficiency:
+
+    Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly
+    Backend: Node, Deno, Rust, Linux, PostgreSQL
+    Datavis: D3.js, Pandas, Jupyter Notebook
+
+Key Attributes:
+
+    Strong communication skills, adept at bridging the gap between technical and editorial teams.
+    Creative problem solver, passionate about turning data into captivating narratives.
+
+Professional Experience:
+ABC News Digital | Story Lab
+
+    Developed code and crafted engaging stories for the ABC News website.
+    Designed and implemented editorial tools for interactive storytelling.
+
+Education:
+Master of Information Technology | QUT
+
+    Incomplete but focused on Systems Architecture and large-scale software deployment.
+
+Bachelor of Arts in Music and Theatre | ACU National
+
+    Graduated December 2003, specializing in Music Composition and Theatrical Production.
+
+Contact Information:
+
+    Email: byrd.joshua@proton.me
+    Phone: 0438 519 545
