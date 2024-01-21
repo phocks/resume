@@ -1,34 +1,25 @@
-╭──────────────────────────────────╮
-│         Joshua Byrd              │
-│   Editorial Developer            │
-╰──────────────────────────────────╯
+────────────────────────────────────
+Joshua Byrd              
+Editorial Developer            
+────────────────────────────────────
 
-🚀 Summary:
-Results-oriented editorial developer with a passion for transforming data into compelling narratives. Seven years of experience at the intersection of data journalism and coding. Fluent in Java, Python, JavaScript, and Rust.
+Results-oriented editorial developer with a passion
+for transforming data into compelling narratives. Eight years
+of experience at the intersection of data journalism
+and coding. Fluent in JavaScript, and Rust.
 
-💻 Skills:
-- Problem Solving
-- Programming: Java, Python, JavaScript, Rust
-- Web: HTML, CSS, React
-- Data: MongoDB, MySQL, Data Journalism
-- Collaboration
-- Version Control: Git
+- Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly
+- Backend: Node, Deno, Rust, Linux, PostgreSQL
 
-🌐 Experience:
-Software Maestro | XYZ Tech
+ABC News Digital | Story Lab
 - Led development of mission-critical features, contributing to flagship product success.
 - Collaborated seamlessly with cross-functional teams for robust and scalable solutions.
 
-🎓 Education:
 Master of Information Technology | QUT
 - Incomplete, focused on Advanced Database Management and Cloud Computing.
 
 Bachelor of Arts in Music and Theatre | ACU National
-- Graduated May 2005, specializing in Music Composition and Theatrical Production.
+- Graduated May 2005, specialising in Music Composition and Theatrical Production.
 
-📧 Contact:
-- Email: josh.byrd@email.com
-- Portfolio: joshbyrd.dev
-- LinkedIn: linkedin.com/in/joshbyrd
-- Twitter: @joshbyrd
-- Instagram: @joshbyrd
+- Email: byrd.joshua@proton.me
+- Phone: 0438 519 545
