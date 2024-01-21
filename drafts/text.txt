@@ -3,23 +3,27 @@ Joshua Byrd
 Editorial Developer            
 ────────────────────────────────────
 
-Results-oriented editorial developer with a passion
-for transforming data into compelling narratives. Eight years
-of experience at the intersection of data journalism
-and coding. Fluent in JavaScript, and Rust.
+Results-oriented editorial developer with a passion 
+for transforming data into compelling narratives. 
+Eight years of experience at the intersection of data 
+journalism and coding.
 
 - Frontend: JavaScript, TypeScript, React, Svelte, WebAssembly
 - Backend: Node, Deno, Rust, Linux, PostgreSQL
 
 ABC News Digital | Story Lab
-- Led development of mission-critical features, contributing to flagship product success.
-- Collaborated seamlessly with cross-functional teams for robust and scalable solutions.
+- Led development of mission-critical features, 
+  contributing to flagship product success.
+- Collaborated seamlessly with cross-functional 
+  teams for robust and scalable solutions.
 
 Master of Information Technology | QUT
-- Incomplete, focused on Advanced Database Management and Cloud Computing.
+- Incomplete, focused on Advanced Database 
+  Management and Cloud Computing.
 
 Bachelor of Arts in Music and Theatre | ACU National
-- Graduated May 2005, specialising in Music Composition and Theatrical Production.
+- Graduated May 2005, specialising in Music Composition 
+  and Theatrical Production.
 
 - Email: byrd.joshua@proton.me
 - Phone: 0438 519 545
