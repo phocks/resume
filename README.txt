@@ -1,3 +1,5 @@
+▟▘▚▜▙▜▛▜▙▚▝▜▘▙▘▞▚▝▛▘▞▝▙▘▙▚▞▛▜▚▞▜▙▙▛▚▛▙▞▜
+
 # Joshua Byrd :: Digital Developer :: [Resume v.2024]
 
 Mid-to-senior level, Clarion & Walkley award winning, software developer and devops enthusiast, exploring new opportunities and challenges in creative digital spaces, collaborating with diverse teams, and bringing practical tech magic to the table.
@@ -31,3 +33,5 @@ Phone :: +61 0438 519 545
 Expanded resume, more information, and references available upon request. Exploring all opportunities for the future. Would love to sit down and chat more over coffee.
 
 ~JB.
+
+▞▚▙▘▞▛▜▛▚▞▝▛▘▜▙▚▝▙▜▞▚▙▜▞▚▞▙▞▚▞▙▜▚▞▘▙▚▙▚
