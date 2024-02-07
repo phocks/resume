@@ -1,5 +1,3 @@
-▟▘▚▜▙▜▛▜▙▚▝▜▘▙▘▞▚▝▛▘▞▝▙▘▙▚▞▛▜▚▞▜▙▙▛▚▛▙▞▜
-
 # Joshua Byrd :: Digital Developer :: [Resume v.2024]
 
 Mid-to-senior level, Clarion & Walkley award winning, software developer and devops enthusiast, exploring new opportunities and challenges in creative digital spaces, collaborating with diverse teams, and bringing practical tech magic to the table.
@@ -34,4 +32,3 @@ Expanded resume, more information, and references available upon request. Explor
 
 ~JB.
 
-▞▚▙▘▞▛▜▛▚▞▝▛▘▜▙▚▝▙▜▞▚▙▜▞▚▞▙▞▚▞▙▜▚▞▘▙▚▙▚
