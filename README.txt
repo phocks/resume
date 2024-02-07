@@ -1,47 +1,33 @@
-# 🚀 **Joshua Byrd**
+# Joshua Byrd :: Digital Developer :: [Resume v.2024]
 
-## **Summary**
-Results-driven and innovative software engineer with over seven years of hands-on experience in the dynamic intersection of data journalism and coding. A seasoned professional known for transforming complex data sets into compelling narratives, I bring a unique blend of technical expertise and storytelling finesse to every project. My track record includes spearheading development initiatives, crafting elegant solutions, and collaborating seamlessly with cross-functional teams. Fluent in a diverse array of programming languages, including Java, Python, JavaScript, and Rust, I thrive in creating high-impact software solutions. Seeking remote opportunities to continue pushing the boundaries of what's possible in the world of technology.
+Mid-to-senior level, Clarion & Walkley award winning, software developer and devops enthusiast, exploring new opportunities and challenges in creative digital spaces, collaborating with diverse teams, and bringing practical tech magic to the table.
 
-## **Skills**
-- 🧠 Problem Solving
-- 💻 Programming Languages: Java, Python, JavaScript, Rust
-- 🌐 Web Development: HTML, CSS, React
-- 📊 Data: MongoDB, MySQL, Data Journalism
-- 🤝 Team Collaboration
-- 🔄 Version Control: Git
+## Current focus
 
-## **Experience**
-**Software Maestro | XYZ Tech**
-*June 2020 - Present*
-- 🚀 Led the development of mission-critical features, contributing to the success of a flagship product.
-- 👥 Collaborated seamlessly with cross-functional dream teams to deliver robust and scalable solutions.
+[1] The Rust programming language / WASM / Systems development
+[2] Web application development / Svelte / React / Jamstack
+[3] ActivityPub and the social web (fediverse) / Mastodon
 
-**Code Artisan | ABC Solutions**
-*May 2018 - June 2020*
-- 🎨 Crafted elegant solutions for scalable systems, enhancing overall system efficiency.
+## Experience
 
-**Data Alchemist | ABC News**
-*2011 - 2018*
-- 📈 Pioneered data journalism initiatives, transforming raw data into compelling stories.
-- 🤝 Collaborated with journalists to create interactive and visually appealing data-driven narratives.
+[1] 7+ years [ABC News Digital] :: Developer / Data Journalist
+[2] 8+ years [Karuna Hospice Services] :: Head of IT
+[3] 2~ years [Whitelion Association] :: IT Engineer
+[4] 1~ year [Polybia Studios] :: Application Developer
+++ more ...
 
-## **Education**
-**Master of Information Technology | Queensland University of Technology (QUT)**
-- 🎓 Started in 20XX, Currently Incomplete
-- 🚀 Acquired skills in Advanced Database Management and Cloud Computing.
+## Education
 
-**Bachelor of Arts in Music and Theatre | ACU National**
-- 🎭 Graduated May 2005
-- 🎼 Developed skills in Music Composition and Theatrical Production.
+[1] Master of IT :: QUT [2005 - incomplete]
+[2] Bachelor of Arts :: ACU [2001, 2003]
+[3] Bachelor of Creative Industries :: QUT [2002]
+++ other courses including TypeScript, CSS, Functional programming, data analysis, etc.
 
-**Film and TV Studies | Queensland University of Technology (QUT)**
-- 🎬 2001 - 2003
-- 📽️ Gained expertise in Film Production and Television Broadcasting.
+## Contact
 
-## **Contact**
-- ✉️ Email: josh.byrd@email.com
-- 🌐 Portfolio: [joshbyrd.dev](https://joshbyrd.dev)
-- 🔗 LinkedIn: [linkedin.com/in/joshbyrd](https://www.linkedin.com/in/joshbyrd)
-- 🐦 Twitter: [@joshbyrd](https://twitter.com/joshbyrd)
-- 📷 Instagram: [@joshbyrd](https://www.instagram.com/joshbyrd)
+Email :: byrd.joshua@proton.me
+Phone :: +61 0438 519 545
+
+Expanded resume, more information, and references available upon request. Exploring all opportunities for the future. Would love to sit down and chat more over coffee.
+
+~JB.
